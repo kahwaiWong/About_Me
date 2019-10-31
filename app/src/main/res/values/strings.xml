@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Kah Wai</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:
+        \n\tSJK(C) Kepong 2, Kepong, Kuala Lumpur\n
+        \n\tSMK Taman Bukit Maluri, Kepong, Kuala Lumpur\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \nWorking Experiences:\n
+        \n\tHerbalife Nutrition Malaysia Sdn Bhd\n
+        \n\tExpro Group Malaysia Sdn Bhd\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
